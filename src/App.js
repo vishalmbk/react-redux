@@ -2,7 +2,7 @@
 import './App.css';
 import { Provider } from 'react-redux';
 import store from './reduxContainer/Store';
-import BookContainer from './BookContainer';
+import BookContainer from './reduxContainer/BookContainer';
 
 function App() {
   return (
